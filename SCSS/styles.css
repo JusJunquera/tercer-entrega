@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+}
+body h1 {
+  font-size: 3.5em;
+  background-color: #F1DEE2;
+  color: #569391;
+  text-align: center;
+  font-family: "open sans";
+  margin-top: 20px;
+}
+body h2 {
+  font-size: 2em;
+}
+body h3 {
+  font-size: 1.5em;
+}
+body p {
+  font-size: 1em;
+}
+body ul {
+  list-style: none;
+}
+
+.preparaciones .ñoquis {
+  margin: 40px;
+}
+.preparaciones .budin {
+  margin: 40px;
+}
+.preparaciones .guiso {
+  margin: 40px;
+}
+.preparaciones .peras {
+  margin: 40px;
+}/*# sourceMappingURL=styles.css.map */
